@@ -26,7 +26,7 @@
 
   <li><strong>#2:</strong> طراحی صفحه ثبت‌نام
     <ul>
-      <li><strong>شخص مسئول:</strong> سارا محمدی</li>
+      <li><strong>شخص مسئول:</strong> ارسطو حقیقی (نمونه)</li>
       <li><strong>توضیحات:</strong> فرم ثبت‌نام شامل نام، ایمیل و رمز عبور و تأیید رمز عبور طراحی شد.</li>
       <li><a href="https://www.figma.com/file/abc">لینک پروتوتایپ فیگما</a></li>
     </ul>
