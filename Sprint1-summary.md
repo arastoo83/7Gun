@@ -18,7 +18,7 @@
 <ul dir="rtl">
   <li><strong>#1:</strong> طراحی صفحه ورود
     <ul>
-      <li><strong>شخص مسئول:</strong> رسطو حقیقی (نمونه) </li>
+      <li><strong>شخص مسئول:</strong> ارسطو حقیقی (نمونه) </li>
       <li><strong>توضیحات:</strong> طراحی فرم‌های ورود شامل نام کاربری و رمز عبور تکمیل شد.</li>
       <li><a href="https://www.figma.com/file/xyz">لینک پروتوتایپ فیگما</a></li>
     </ul>
