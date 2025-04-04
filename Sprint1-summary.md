@@ -93,7 +93,7 @@
 ---
 
 ## 5. لینک به کارهای انجام‌شده
-- [لینک به پروتوتایپ فیگما](https://www.figma.com/file/xyz)
+- [لینک به پروتوتایپ فیگما]([https://www.figma.com/file/xyz](https://www.figma.com/proto/W1udGOCI5g6WOiMc4S9GMT/Social-Network---7gun?node-id=0-1&t=E7rIO5CQ58Z0HCSS-1))
 - [لینک به Issue‌های تکمیل‌شده در GitHub](https://github.com/username/repository/issues)
 
 </div>
