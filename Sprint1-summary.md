@@ -24,7 +24,7 @@
       <li><strong>توضیحات:</strong>ریپازتوری ساخته شد و برای اعضای گروه و تی ای ها دعوت فرستاده شد. همچنین داکیومنت های مورد نیاز ساخته شد.</li>
     </ul>
   </li>
-  <li><strong>#1:</strong> تعریف project و ایجاد Sprint ها 
+  <li><strong>#2:</strong> تعریف project و ایجاد Sprint ها 
     <ul>
       <li><strong>شخص مسئول:</strong> ارسطو حقیقی </li>
       <li><strong>توضیحات:</strong> پروژه با تمپلیت team planning ایجاد شد و از طریق تنظیملت پروژه sprint ها اضافه شد </li>
