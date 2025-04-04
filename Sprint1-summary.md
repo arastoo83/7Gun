@@ -55,11 +55,11 @@
 
 
 
-  <li><strong>#2:</strong> طراحی صفحه ثبت‌نام
+  <li><strong>#6:</strong> طراحی صفحه ثبت‌نام
     <ul>
-      <li><strong>شخص مسئول:</strong> ارسطو حقیقی (نمونه)</li>
-      <li><strong>توضیحات:</strong> فرم ثبت‌نام شامل نام، ایمیل و رمز عبور و تأیید رمز عبور طراحی شد.</li>
-      <li><a href="https://www.figma.com/file/abc">لینک پروتوتایپ فیگما</a></li>
+      <li><strong>شخص مسئول:</strong> امین محمدی </li>
+      <li><strong>توضیحات:</strong> فرم ثبت‌نام شامل نام کاربری،نام و نام خانوادگی، ایمیل و رمز عبور و تأیید رمز عبور طراحی شد.</li>
+      <li><a href="[https://www.figma.com/file/abc](https://www.figma.com/proto/W1udGOCI5g6WOiMc4S9GMT/Social-Network---7gun?node-id=0-1&t=E7rIO5CQ58Z0HCSS-1)">لینک پروتوتایپ فیگما</a></li>
     </ul>
   </li>
 </ul>
