@@ -30,6 +30,14 @@
       <li><strong>توضیحات:</strong> پروژه با تمپلیت team planning ایجاد شد و از طریق تنظیملت پروژه sprint ها اضافه شد </li>
     </ul>
   </li>
+   <li><strong>#3:</strong> ایجاد ساختار مناسب برای داکیومنت های .md
+    <ul>
+      <li><strong>شخص مسئول:</strong> ارسطو حقیقی </li>
+      <li><strong>توضیحات:</strong> ایجاد فایل های README.md , Sprint1-summary.md , Sprint2-summary.md , Sprint3-summary.md با ساختار مناسب</li>
+    </ul>
+  </li>
+  
+
 
 
   <li><strong>#2:</strong> طراحی صفحه ثبت‌نام
