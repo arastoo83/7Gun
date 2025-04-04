@@ -72,6 +72,13 @@
       <li><a href="https://www.figma.com/file/abc](https://www.figma.com/proto/W1udGOCI5g6WOiMc4S9GMT/Social-Network---7gun?node-id=0-1&t=E7rIO5CQ58Z0HCSS-1)](https://www.figma.com/design/W1udGOCI5g6WOiMc4S9GMT/Social-Network---7gun?node-id=0-1&m=dev&t=E7rIO5CQ58Z0HCSS-1)">لینک dev mod پروژه</a></li>
     </ul>
   </li>
+    <li><strong>#26:</strong> توضیح اولیه پروژه در فایل گزارش
+    <ul>
+      <li><strong>شخص مسئول:</strong> ارسطو حقیقی  </li>
+      <li><strong>توضیحات:</strong> توضیحات اولیه در مورد پروژه و خواسته هایش، در فایل گزارش نهایی نوشته شد </li>
+      <li><a href="https://docs.google.com/document/d/16yNkjdHMuNY2Qr_G1Uqiz4pqbTHJamUH/edit?usp=sharing&ouid=101601006722367121274&rtpof=true&sd=true">لینک گوگل داکس</a></li>
+    </ul>
+  </li>
 </ul>
 ---
 
