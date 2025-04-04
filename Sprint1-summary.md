@@ -64,6 +64,16 @@
   </li>
 </ul>
 
+
+
+  <li><strong>#7:</strong> طراحی صفحه ورود
+    <ul>
+      <li><strong>شخص مسئول:</strong> امین محمدی </li>
+      <li><strong>توضیحات:</strong> فرم ورود شامل نام کاربری، رمز عبور طراحی شد.</li>
+      <li><a href="[https://www.figma.com/file/abc](https://www.figma.com/proto/W1udGOCI5g6WOiMc4S9GMT/Social-Network---7gun?node-id=0-1&t=E7rIO5CQ58Z0HCSS-1)">لینک پروتوتایپ فیگما</a></li>
+    </ul>
+  </li>
+</ul>
 ---
 
 ## 3. مشکلات و چالش‌ها
