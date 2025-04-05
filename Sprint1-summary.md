@@ -87,6 +87,13 @@
       <li><a href="https://www.figma.com/file/abc](https://www.figma.com/proto/W1udGOCI5g6WOiMc4S9GMT/Social-Network---7gun?node-id=0-1&t=E7rIO5CQ58Z0HCSS-1)](https://www.figma.com/design/W1udGOCI5g6WOiMc4S9GMT/Social-Network---7gun?node-id=0-1&m=dev&t=E7rIO5CQ58Z0HCSS-1)">لینک dev mod پروژه</a></li>
     </ul>
   </li>
+  <li><strong>#13:</strong> طراحی صفحه گفتگو 
+    <ul>
+      <li><strong>شخص مسئول:</strong>نجمه کوهسار</li>
+      <li><strong>توضیحات:</strong> طراحی صفحه برای گفتگو بین دو کاربر با نمایش نام و تصویر کاربر مقابل، آنلاین بودن کاربر و همچنین دکمه هایی برای بازگشت، ویس و استیکر کامل شده است</li>
+      <li><a href="https://www.figma.com/proto/mMeIpnlEtNaAbXq7518twv/profile?node-id=141-18&p=f&t=D307Ec8VXNViSNHo-0&scaling=min-zoom&content-scaling=fixed&page-id=3%3A151">لینک پروتوتایپ فیگما</a></li>
+    </ul>
+  </li>
     <li><strong>#26:</strong> توضیح اولیه پروژه در فایل گزارش
     <ul>
       <li><strong>شخص مسئول:</strong> ارسطو حقیقی  </li>
