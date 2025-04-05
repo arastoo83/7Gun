@@ -73,7 +73,13 @@
       <li><a href="https://www.figma.com/design/W4DtDQZziRyioX1N1Ld8de/recover-password?node-id=0-1&m=dev&t=JH9U9SizsxFxGOTJ-1(https://www.figma.com/design/W4DtDQZziRyioX1N1Ld8de/recover-password?node-id=0-1&m=dev&t=JH9U9SizsxFxGOTJ-1)">لینک پروتوتایپ فیگما</a></li>
     </ul>
   </li>
-
+  <li><strong>#9:</strong> طراحی صفحه نمایه کاربر 
+    <ul>
+      <li><strong>شخص مسئول:</strong>محمد امین محمدی نژاد و امیرحسین جامعی </li>
+      <li><strong>توضیحات:</strong> طراحی صفحه نمایه کاربر با فیلد های نام، نام کاربری ، درباره من، دنبال کننده، دنبال شونده و همچنین نمایش پست های کاربر به اتمام رسید</li>
+      <li><a href="https://www.figma.com/proto/mMeIpnlEtNaAbXq7518twv/profile?node-id=0-1&t=TFePomWDztnLIxH3-1">لینک پروتوتایپ فیگما</a></li>
+    </ul>
+  </li>
   <li><strong>#10:</strong> ایجاد پروژه فیگما بر بستر سایت
     <ul>
       <li><strong>شخص مسئول:</strong> امین محمدی </li>
