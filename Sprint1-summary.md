@@ -87,6 +87,15 @@
       <li><a href="https://www.figma.com/file/abc](https://www.figma.com/proto/W1udGOCI5g6WOiMc4S9GMT/Social-Network---7gun?node-id=0-1&t=E7rIO5CQ58Z0HCSS-1)](https://www.figma.com/design/W1udGOCI5g6WOiMc4S9GMT/Social-Network---7gun?node-id=0-1&m=dev&t=E7rIO5CQ58Z0HCSS-1)">لینک dev mod پروژه</a></li>
     </ul>
   </li>
+
+  <li><strong>#11:</strong> طراحی صفحه فید
+    <ul>
+      <li><strong>شخص مسئول:</strong> سارا رکنی دوست </li>
+      <li><strong>توضیحات:</strong> صفحه فید با قابلیت دیدن آخرین پست های کاربران دنبال شده (متن،عکس،ویدیو،نظرسنجی) به اتمام رسید.</li>
+      <li><a href="https://www.figma.com/proto/Hvr8IypCQj5Ej5UmDpiTOX/Untitled?page-id=370%3A210&node-id=374-114&viewport=522%2C67%2C1&t=1tA3OHoWCG8sya4K-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=374%3A114">لینک پروتوتایپ فیگما</a></li>
+    </ul>
+  </li>
+
   <li><strong>#13:</strong> طراحی صفحه گفتگو 
     <ul>
       <li><strong>شخص مسئول:</strong>نجمه کوهسار</li>
