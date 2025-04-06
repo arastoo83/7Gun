@@ -84,7 +84,7 @@
     <ul>
       <li><strong>شخص مسئول:</strong> امین محمدی </li>
       <li><strong>توضیحات:</strong> ایجاد پروژه جدید فیگما بر بستر سایت جهت یکسان سازی و مدیریت و مشاهده کامل و جامع صفحات طراحی شده توسط اعضا و ایجاد دسترسی کامل اعضا برای ایجاد تغییر در این پروژه</li>
-      <li><a href="https://www.figma.com/file/abc](https://www.figma.com/proto/W1udGOCI5g6WOiMc4S9GMT/Social-Network---7gun?node-id=0-1&t=E7rIO5CQ58Z0HCSS-1)](https://www.figma.com/design/W1udGOCI5g6WOiMc4S9GMT/Social-Network---7gun?node-id=0-1&m=dev&t=E7rIO5CQ58Z0HCSS-1)">لینک dev mod پروژه</a></li>
+      <li><a href="https://www.figma.com/design/W1udGOCI5g6WOiMc4S9GMT/Social-Network---7gun?node-id=0-1&p=f&t=nFwv2Kz6wISe18kb-0">لینک dev mod پروژه</a></li>
     </ul>
   </li>
 
