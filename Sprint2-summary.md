@@ -29,7 +29,7 @@
       <li><strong>شخص مسئول:</strong> ارسطو حقیقی و مجتبی خالقی</li>
       <li><strong>توضیحات:</strong> طراحی تمام صفحات مورد نیاز برای ویرایش گروه همراه با تمام حالات ممکن و لینک کردن صفحات به یکدیگر 
       </li>
-      <li><a href="[https://www.figma.com/file/xyz](https://www.figma.com/proto/mMeIpnlEtNaAbXq7518twv/profile?node-id=166-36&t=icVGY796C4MoLYIy-0&scaling=min-zoom&content-scaling=fixed&page-id=6%3A326)">لینک پروتوتایپ فیگما</a>      </li>
+      <li><a href="https://www.figma.com/proto/W1udGOCI5g6WOiMc4S9GMT/Social-Network---7gun?node-id=159-329&t=CtVyL0JKSfunsmsE-1">لینک پروتوتایپ فیگما</a>      </li>
     </ul>
   </li>
   <li><strong>#18:</strong> طراحی صفحه برای ایجاد رویداد
