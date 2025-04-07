@@ -21,7 +21,7 @@
       <li><strong>شخص مسئول:</strong> ارسطو حقیقی و امین محمدی</li>
       <li><strong>توضیحات:</strong> طراحی صفحه برای گذاشتن نام و توضیحات و انتخاب عکس گروه و در ادامه انتخاب اعضای گروه  
       </li>
-      <li><a href="[https://www.figma.com/file/xyz](https://www.figma.com/proto/mMeIpnlEtNaAbXq7518twv/profile?node-id=166-36&t=icVGY796C4MoLYIy-0&scaling=min-zoom&content-scaling=fixed&page-id=6%3A326)">لینک پروتوتایپ فیگما</a>      </li>
+      <li><a href="https://www.figma.com/proto/W1udGOCI5g6WOiMc4S9GMT/Social-Network---7gun?node-id=115-222&t=CtVyL0JKSfunsmsE-1">لینک پروتوتایپ فیگما انتخاب کاربر</a> || <a href="https://www.figma.com/proto/W1udGOCI5g6WOiMc4S9GMT/Social-Network---7gun?node-id=124-219&t=CtVyL0JKSfunsmsE-1">لینک پروتوتایپ فیگما انتخاب نام و عکس و توضیحات گروه و ثبت گروه</a></li>      </li>
     </ul>
   </li>
    <li><strong>#15:</strong> طراحی صفحه ای برای ویرایش اطلاعات گروه
