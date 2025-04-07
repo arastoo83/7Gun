@@ -35,7 +35,7 @@
 
    <li><strong>#16:</strong> طراحی صفحه ساخت انجمن
     <ul>
-      <li><strong>شخص مسئول:</strong> امین محمدی و مجتبی خالقی</li>
+      <li><strong>شخص مسئول:</strong> مجتبی خالقی و امین محمدی</li>
       <li><strong>توضیحات:</strong> طراحی تمام صفحات مورد نیاز برای ساخت انجمن همراه با تمام حالات ممکن و لینک کردن صفحات به یکدیگر 
       </li>
       <li><a href="https://www.figma.com/proto/W1udGOCI5g6WOiMc4S9GMT/Social-Network---7gun?node-id=193-599&t=YkNr69mfbPfeEM7k-1">لینک پروتوتایپ فیگما</a>      </li>
