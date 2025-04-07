@@ -26,6 +26,16 @@
 
 
 </ul>
+<ul dir="rtl">
+  <li><strong>#19:</strong> طراحی صفحه برای دیدن لیست فالوورها
+    <ul>
+      <li><strong>شخص مسئول:</strong> سارا رکنی دوست ،نجمه کوهسار</li>
+      <li><strong>توضیحات:</strong>  طراحی لیست فالوورها تکمیل شد.در این صفحه لیستی از فالوورها و تعدادشان با عکس پروفایل و نام کاربری و شناسه قابل دیدن است نواری برای بازگشت به خانه و پست گذاشتن و پیام دادن در پایین صفحه طراحی شده است.  </li>
+      <li><a href="https://www.figma.com/proto/a5YCI4n0tDQ9PB6E29EBIf/Untitled?node-id=33-3&p=f&t=yEyeXsHejSsS8cx8-0&scaling=scale-down&content-scaling=fixed&page-id=33%3A2">لینک پروتوتایپ فیگما</a></li>
+    </ul>
+  </li>
+
+</ul>
 
 ---
 
