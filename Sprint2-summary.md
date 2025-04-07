@@ -41,7 +41,15 @@
     </ul>
   </li>
 
-
+  <li><strong>#19:</strong> طراحی صفحه رویدادی که کاربر به آن دعوت شده است.
+    <ul>
+      <li><strong>شخص مسئول:</strong> امیرحسین جامعی و محمدامین محمدی نژاد</li>
+      <li><strong>توضیحات:</strong> طراحی رابط کاربری برای صفحه رویدادی که کاربر به آن دعوت شده است کامل شد. در ابتدا کاربر توانایی مشاهده رویداد هایی که به آن دعوت شده است را دارد سپس می‌تواند این رویداد ها را با جزئیاتشان ببیند.
+      </li>
+      <li><a href="https://www.figma.com/proto/mMeIpnlEtNaAbXq7518twv/profile?node-id=200-167&t=icVGY796C4MoLYIy-0&scaling=min-zoom&content-scaling=fixed&page-id=6%3A327">لینک پروتوتایپ دیدن رویداد هایی که کاربر دعوت شده است:</a>      </li>
+      <li><a href="https://www.figma.com/proto/mMeIpnlEtNaAbXq7518twv/profile?node-id=203-26&t=icVGY796C4MoLYIy-0&scaling=min-zoom&content-scaling=fixed&page-id=6%3A327">لینک پروتوتایپ دیدن مشخصات یک رویداد خاص:</a>      </li>
+    </ul>
+  </li>
 
   <li><strong>#37:</strong> طراحی صفحه برای دیدن لیست فالوورها
     <ul>
