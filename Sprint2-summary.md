@@ -24,12 +24,20 @@
       <li><a href="[https://www.figma.com/file/xyz](https://www.figma.com/proto/mMeIpnlEtNaAbXq7518twv/profile?node-id=166-36&t=icVGY796C4MoLYIy-0&scaling=min-zoom&content-scaling=fixed&page-id=6%3A326)">لینک پروتوتایپ فیگما</a>      </li>
     </ul>
   </li>
+   <li><strong>#15:</strong> طراحی صفحه ای برای ویرایش اطلاعات گروه
+    <ul>
+      <li><strong>شخص مسئول:</strong> ارسطو حقیقی و مجتبی خالقی</li>
+      <li><strong>توضیحات:</strong> طراحی تمام صفحات مورد نیاز برای ویرایش گروه همراه با تمام حالات ممکن و لینک کردن صفحات به یکدیگر 
+      </li>
+      <li><a href="[https://www.figma.com/file/xyz](https://www.figma.com/proto/mMeIpnlEtNaAbXq7518twv/profile?node-id=166-36&t=icVGY796C4MoLYIy-0&scaling=min-zoom&content-scaling=fixed&page-id=6%3A326)">لینک پروتوتایپ فیگما</a>      </li>
+    </ul>
+  </li>
   <li><strong>#18:</strong> طراحی صفحه برای ایجاد رویداد
     <ul>
       <li><strong>شخص مسئول:</strong> امیرحسین جامعی و محمدامین محمدی نژاد</li>
       <li><strong>توضیحات:</strong> طراحی صفحه برای ایجاد رویداد تکمیل شد. برای طراحی این بخش از دو صفحه استفاده شده است که بخش اول از صفحه ای برای تعیین ساعت ، تاریخ و مکان این رویداد طراحی شده است. همچنین در صفحه دوم شاهد صفحه ای هستیم که کاربر توانایی بارگذاری عکس و   توضیحاتی در مورد این رویداد را دارد.  
       </li>
-      <li><a href="[https://www.figma.com/file/xyz](https://www.figma.com/proto/mMeIpnlEtNaAbXq7518twv/profile?node-id=166-36&t=icVGY796C4MoLYIy-0&scaling=min-zoom&content-scaling=fixed&page-id=6%3A326)">لینک پروتوتایپ فیگما</a>      </li>
+      <li><a href="https://www.figma.com/proto/W1udGOCI5g6WOiMc4S9GMT/Social-Network---7gun?node-id=159-329&p=f&t=FmZRc1hCzX5yjElX-0&scaling=scale-down&content-scaling=fixed&page-id=0%3A1%3Cdiv%20dir%3D">لینک پروتوتایپ فیگما</a>      </li>
     </ul>
   </li>
 
