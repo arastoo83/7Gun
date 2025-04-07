@@ -16,21 +16,15 @@
 در این بخش تمام **Issue‌های** انجام‌شده ذکر می‌شود. برای هر Issue، باید موارد زیر آورده شود:
 
 <ul dir="rtl">
-  <li><strong>#1:</strong> طراحی صفحه ورود
+  <li><strong>#18:</strong> طراحی صفحه برای ایجاد رویداد
     <ul>
-      <li><strong>شخص مسئول:</strong> ارسطو حقیقی (نمونه)</li>
-      <li><strong>توضیحات:</strong> طراحی فرم‌های ورود شامل نام کاربری و رمز عبور تکمیل شد.</li>
-      <li><a href="https://www.figma.com/file/xyz">لینک پروتوتایپ فیگما</a></li>
+      <li><strong>شخص مسئول:</strong> امیرحسین جامعی و محمدامین محمدی نژاد</li>
+      <li><strong>توضیحات:</strong> طراحی صفحه برای ایجاد رویداد تکمیل شد. برای طراحی این بخش از دو صفحه استفاده شده است که بخش اول از صفحه ای برای تعیین ساعت ، تاریخ و مکان این رویداد طراحی شده است. همچنین در صفحه دوم شاهد صفحه ای هستیم که کاربر توانایی بارگذاری عکس و توضیحاتی در مورد این رویداد را دارد.  </li>
+      <li><a href="[https://www.figma.com/file/xyz](https://www.figma.com/proto/mMeIpnlEtNaAbXq7518twv/profile?node-id=166-36&t=icVGY796C4MoLYIy-0&scaling=min-zoom&content-scaling=fixed&page-id=6%3A326)">لینک پروتوتایپ فیگما</a></li>
     </ul>
   </li>
 
-  <li><strong>#2:</strong> طراحی صفحه ثبت‌نام
-    <ul>
-      <li><strong>شخص مسئول:</strong> ارسطو حقیقی (نمونه) </li>
-      <li><strong>توضیحات:</strong> فرم ثبت‌نام شامل نام، ایمیل و رمز عبور و تأیید رمز عبور طراحی شد.</li>
-      <li><a href="https://www.figma.com/file/abc">لینک پروتوتایپ فیگما</a></li>
-    </ul>
-  </li>
+
 </ul>
 
 ---
