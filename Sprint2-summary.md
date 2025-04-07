@@ -61,10 +61,10 @@
     </ul>
   </li>
 
-  <li><strong>#37:</strong> طراحی صفحه پست گذاشتن
+  <li><strong>#35:</strong> طراحی صفحه پست گذاشتن
     <ul>
       <li><strong>شخص مسئول:</strong> سارا رکنی دوست ،نجمه کوهسار</li>
-      <li><strong>توضیحات:</strong>  طراحی صفحه برای صفحه پست گذاشتن تکمیل شد.در این صفحه کاربر توانایی گذاشتن انواع پست شامل متن ،عکس،فیلم و نظرسنجی را خواهد داشت.  </li>
+      <li><strong>توضیحات:</strong>  طراحی صفحه برای پست گذاشتن تکمیل شد.در این صفحه کاربر توانایی گذاشتن انواع پست شامل متن ،عکس،فیلم و نظرسنجی را خواهد داشت.  </li>
       <li><a href="https://www.figma.com/proto/a5YCI4n0tDQ9PB6E29EBIf/Untitled?page-id=0%3A1&node-id=37-2&viewport=308%2C-733%2C1.07&t=29bPV1F5aBlCK953-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=37%3A2">لینک پروتوتایپ فیگما</a></li>
     </ul>
   </li>
