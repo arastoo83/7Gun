@@ -99,14 +99,14 @@
 ## 4. برنامه‌ریزی برای Sprint بعدی
 در این بخش، به صورت خلاصه برنامه‌های شما برای Sprint بعدی نوشته می‌شود. این کار باعث می‌شود که تیم برای ادامه کار آماده باشد.
 
-- **هدف Sprint 2:**
+- **هدف Sprint 3:**
   - طراحی صفحه پروفایل
-  - تکمیل بخش‌های واکنش‌گرا
+  - تکمیل بخش‌های واکنش‌گرا و ایجاد ناوبری
+  - تکمیل گزارش ها پروژه
 
 ---
 
 ## 5. لینک به کارهای انجام‌شده
-- [لینک به پروتوتایپ فیگما](https://www.figma.com/file/xyz)
-- [لینک به Issue‌های تکمیل‌شده در GitHub](https://github.com/username/repository/issues)
+- [لینک به پروتوتایپ فیگما](https://www.figma.com/proto/W1udGOCI5g6WOiMc4S9GMT/Social-Network---7gun?node-id=76-16&t=pvvIp7CWEJLbSxmk-0&scaling=scale-down&content-scaling=fixed&page-id=0%3A1)
 
 </div>
