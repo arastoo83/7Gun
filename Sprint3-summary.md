@@ -97,7 +97,7 @@
     <ul>
       <li><strong>شخص مسئول:</strong> سارا رکنی دوست و مجتبی خالقی </li>
       <li><strong>توضیحات:</strong> طراحی صفحه ویرایش اطلاعات یک کاربر که در کاربر در آن قادر به ویرایش اطلاعات خودش هست به اتمام رسید.</li>
-      <li><a href="https://www.figma.com/file/xyzhttps://www.figma.com/proto/W1udGOCI5g6WOiMc4S9GMT/Social-Network---7gun?node-id=287-825&t=JrwQlK7Otb9NnlUr-1https://www.figma.com/proto/W1udGOCI5g6WOiMc4S9GMT/Social-Network---7gun?node-id=364-712&t=pvE5abfr57MtWv54-1">لینک پروتوتایپ فیگما</a></li>
+      <li><a href="https://www.figma.com/proto/W1udGOCI5g6WOiMc4S9GMT/Social-Network---7gun?node-id=364-712&t=pvvIp7CWEJLbSxmk-0&scaling=scale-down&content-scaling=fixed&page-id=0%3A1">لینک پروتوتایپ فیگما</a></li>
     </ul>
   </li>
 
