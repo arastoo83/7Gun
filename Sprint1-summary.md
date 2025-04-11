@@ -77,7 +77,7 @@
     <ul>
       <li><strong>شخص مسئول:</strong>محمد امین محمدی نژاد و امیرحسین جامعی </li>
       <li><strong>توضیحات:</strong> طراحی صفحه نمایه کاربر با فیلد های نام، نام کاربری ، درباره من، دنبال کننده، دنبال شونده و همچنین نمایش پست های کاربر به اتمام رسید</li>
-      <li><a href="https://www.figma.com/proto/mMeIpnlEtNaAbXq7518twv/profile?node-id=0-1&t=TFePomWDztnLIxH3-1">لینک پروتوتایپ فیگما</a></li>
+      <li><a href="https://www.figma.com/proto/W1udGOCI5g6WOiMc4S9GMT/Social-Network---7gun?node-id=262-656&t=E7rIO5CQ58Z0HCSS-1)">لینک پروتوتایپ فیگما</a></li>
     </ul>
   </li>
   <li><strong>#10:</strong> ایجاد پروژه فیگما بر بستر سایت
