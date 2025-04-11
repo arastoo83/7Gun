@@ -1,5 +1,5 @@
 
-<div align="center"> <img src="logo.jpg" height="200px"> </div>
+<div align="center"> <img src="logo.jpg" height="500px"> </div>
 # 🚀 پروژه شبکه اجتماعی سازمانی
 
 
