@@ -18,6 +18,13 @@
 در این بخش تمام **Issue‌های** انجام‌شده ذکر می‌شود. برای هر Issue، باید موارد زیر آورده شود:
 
 <ul dir="rtl">
+  <li><strong>#17:</strong> طراحی صفحه ای برای ویرایش انجمن
+      <ul>
+        <li><strong>شخص مسئول:</strong> مجتبی خالقی و امین محمدی </li>
+        <li><strong>توضیحات:</strong> طراحی صفحه ویرایش یک انجمن برای کاربران.این صفحه شامل توانایی ویرایش اطلاعات یک انجمن هست.به اتمام رسید. </li>
+        <li><a href="https://www.figma.com/proto/W1udGOCI5g6WOiMc4S9GMT/Social-Network---7gun?node-id=268-739&t=JFsTDdYKXhNEpA7L-1))https://www.figma.com/proto/W1udGOCI5g6WOiMc4S9GMT/Social-Network---7gun?node-id=193-687&t=PU2gthzJ1H3S6Kcw-1"> لینک پروتوتایپ فیگما</a></li>
+      </ul>
+    </li>
     <li><strong>#29:</strong>  توضیح ابزار پروتوتایپ انتخاب شده و دلیل انتخاب آن در گزارش
       <ul>
         <li><strong>شخص مسئول:</strong> ارسطو حقیقی </li>
