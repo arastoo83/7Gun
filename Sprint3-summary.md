@@ -31,7 +31,7 @@
         <li><strong>توضیحات:</strong>
 راحی صفحه نشان دادن موضوعات یک انجمن برای کاربران. این صفحه شامل موضوعات یک
 انجمن و توانایی اضافه کردن یا حذف کردن یک موضوع . به اتمام رسید. </li>
-        <li><a href="https://www.figma.com/file/xyzhttps://www.figma.com/proto/W1udGOCI5g6WOiMc4S9GMT/Social-Network---7gun?node-id=287-825&t=JrwQlK7Otb9NnlUr-1https://www.figma.com/proto/W1udGOCI5g6WOiMc4S9GMT/Social-Network---7gun?node-id=268-739&t=JFsTDdYKXhNEpA7L-1)"> لینک پروتوتایپ فیگما</a></li>
+        <li><a href="www.figma.com/proto/W1udGOCI5g6WOiMc4S9GMT/Social-Network---7gun?node-id=287-825&t=JrwQlK7Otb9NnlUr-1"> لینک پروتوتایپ فیگما</a></li>
       </ul>
     </li>
    
