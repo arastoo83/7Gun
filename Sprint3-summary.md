@@ -18,13 +18,7 @@
 در این بخش تمام **Issue‌های** انجام‌شده ذکر می‌شود. برای هر Issue، باید موارد زیر آورده شود:
 
 <ul dir="rtl">
-    <li><strong>#29:</strong>  توضیح ابزار پروتوتایپ انتخاب شده و دلیل انتخاب آن در گزارش
-    <ul>
-      <li><strong>شخص مسئول:</strong> ارسطو حقیقی </li>
-      <li><strong>توضیحات:</strong>علت استفاده تیم از figma به طور کامل در گزارش نوشته شد</li>
-      <li><a href="https://docs.google.com/document/d/16yNkjdHMuNY2Qr_G1Uqiz4pqbTHJamUH/edit#heading=h.ymeqgotjk9kq">لینک به گزارش</a></li>
-    </ul>
-    </li>
+  
 
     <li><strong>#40:</strong>طراحی صفحه نشان دادن موضوعات یک انجمن
     <ul>
