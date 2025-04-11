@@ -56,6 +56,15 @@
     </ul>
   </li>
 
+  <li><strong>#42:</strong> یک سری تغییر کلی در رنگ ها و اضافه کردن سربرگ های پایین صفحه به کل صفحه ها
+    <ul>
+      <li><strong>شخص مسئول:</strong> نجمه کوهسار و مجتبی خالقی  </li>
+      <li><strong>توضیحات:</strong> یک سری تغییر کلی در رنگ ها و اضافه کردن سربرگ های پایین صفحه به کل صفحه ها به اتمام رسید.</li>
+      <li><a href="https://www.figma.com/proto/W1udGOCI5g6WOiMc4S9GMT/Social-Network---7gun?node-id=76-16&t=OJk18W6cuRERntF2-1">لینک پروتوتایپ فیگما</a></li>
+    </ul>
+  </li>
+
+
   <li><strong>#43:</strong>طراحی صفحه ویرایش اطلاعات یک کاربر
     <ul>
       <li><strong>شخص مسئول:</strong> سارا رکنی دوست و مجتبی خالقی </li>
