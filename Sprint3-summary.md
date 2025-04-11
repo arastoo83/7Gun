@@ -32,6 +32,13 @@
         <li><a href="https://www.figma.com/proto/W1udGOCI5g6WOiMc4S9GMT/Social-Network---7gun?node-id=268-739&t=JFsTDdYKXhNEpA7L-1))https://www.figma.com/proto/W1udGOCI5g6WOiMc4S9GMT/Social-Network---7gun?node-id=193-687&t=PU2gthzJ1H3S6Kcw-1"> لینک پروتوتایپ فیگما</a></li>
       </ul>
     </li>
+   <li><strong>#23:</strong>  نوشتن مستندات Sprint 3
+
+      <ul>
+        <li><strong>شخص مسئول:</strong> همه اعضای گروه </li>
+        <li><strong>توضیحات:</strong>تمام issue ها وارد فایل گزارش sprint 3 شدند. و این یعنی پایان فاز 1😉🔥</li>
+      </ul>
+    </li>
     <li><strong>#29:</strong>  توضیح ابزار پروتوتایپ انتخاب شده و دلیل انتخاب آن در گزارش
       <ul>
         <li><strong>شخص مسئول:</strong> ارسطو حقیقی </li>
