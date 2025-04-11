@@ -106,7 +106,7 @@
     <ul>
       <li><strong>شخص مسئول:</strong> سارا رکنی دوست و مجتبی خالقی </li>
       <li><strong>توضیحات:</strong> طراحی صفحه پروفایل مخصوص خود کاربر صاحب اکانت برای کاربران. این صفحه شامل ویرایش پروفایل،اشتراک گذاری پروفایل و همچنین مشاهده تمامی پست های کاربر و توانایی انتقال به پیام رسان و صفحه فید به اتمام رسید.</li>
-      <li><a href="https://www.figma.com/file/xyzhttps://www.figma.com/proto/W1udGOCI5g6WOiMc4S9GMT/Social-Network---7gun?node-id=287-825&t=JrwQlK7Otb9NnlUr-1">لینک پروتوتایپ فیگما</a></li>
+      <li><a href="https://www.figma.com/proto/W1udGOCI5g6WOiMc4S9GMT/Social-Network---7gun?node-id=287-825&t=pvvIp7CWEJLbSxmk-0&scaling=scale-down&content-scaling=fixed&page-id=0%3A1">لینک پروتوتایپ فیگما</a></li>
     </ul>
   </li>
 
