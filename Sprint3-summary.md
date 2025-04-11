@@ -40,13 +40,7 @@
       </ul>
     </li>
 
-    <li><strong>#32:</strong> لینک کردن صفحات طراحی شده به یکدیگر و ایجاد ناوبری
-      <ul>
-        <li><strong>شخص مسئول:</strong> مجتبی خالقی و امین محمدی و سارا رکنی دوست و نجمه کوهسار </li>
-        <li><strong>توضیحات:</strong>لینک کردن صفحات طراحی شده به یکدیگر و ایجاد ناوبری. به اتمام رسید. </li>
-        <li><a href="https://www.figma.com/proto/W1udGOCI5g6WOiMc4S9GMT/Social-Network---7gun?node-id=76-16&t=OJk18W6cuRERntF2-1"> لینک پروتوتایپ فیگما</a></li>
-      </ul>
-    </li>
+
   
     <li><strong>#40:</strong> طراحی صفحه نشان دادن موضوعات یک انجمن
       <ul>
