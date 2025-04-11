@@ -53,6 +53,16 @@
         <li><a href="https://www.figma.com/proto/W1udGOCI5g6WOiMc4S9GMT/Social-Network---7gun?node-id=76-16&t=OJk18W6cuRERntF2-1"> لینک پروتوتایپ فیگما</a></li>
       </ul>
     </li>
+    <li><strong>#36:</strong> اضافه کردن تمام صفحات ساخته شده توسط تیم در لینک پروژه فیگما
+      <ul>
+        <li><strong>شخص مسئول:</strong> تمام اعضای گروه </li>
+        <li><strong>توضیحات:</strong>تمام صفحاتی که اعضای تیم به طور جداگانه طراحی کرده بودند به صفحه اشتراکی اضافه شد</li>
+        <li><a href="https://www.figma.com/design/W1udGOCI5g6WOiMc4S9GMT/Social-Network---7gun?node-id=76-16&t=pvvIp7CWEJLbSxmk-0"> لینک فیگما</a></li>
+      </ul>
+    </li>
+
+
+
     <li><strong>#40:</strong> طراحی صفحه نشان دادن موضوعات یک انجمن
       <ul>
         <li><strong>شخص مسئول:</strong> مجتبی خالقی و امین محمدی </li>
