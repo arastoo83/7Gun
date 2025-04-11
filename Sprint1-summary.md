@@ -70,7 +70,7 @@
     <ul>
       <li><strong>شخص مسئول:</strong>مجتبی خالقی </li>
       <li><strong>توضیحات:</strong> فرم فراموشی رمز عبور شامل صفحه وارد کردن نام کاربری یا ایمیل و وارد کردن کد دریافت شده و تغییر رمز طراحی شد.</li>
-      <li><a href="https://www.figma.com/design/W4DtDQZziRyioX1N1Ld8de/recover-password?node-id=0-1&m=dev&t=JH9U9SizsxFxGOTJ-1(https://www.figma.com/design/W4DtDQZziRyioX1N1Ld8de/recover-password?node-id=0-1&m=dev&t=JH9U9SizsxFxGOTJ-1)">لینک پروتوتایپ فیگما</a></li>
+      <li><a href="https://www.figma.com/proto/W1udGOCI5g6WOiMc4S9GMT/Social-Network---7gun?node-id=118-342&p=f&t=Fi0BvzwqdMgvuA3j-0&scaling=scale-down&content-scaling=fixed&page-id=0%3A1">لینک پروتوتایپ فیگما</a></li>
     </ul>
   </li>
   <li><strong>#9:</strong> طراحی صفحه نمایه کاربر 
