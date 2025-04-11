@@ -107,14 +107,14 @@
     <ul>
       <li><strong>شخص مسئول:</strong> ارسطو حقیقی  </li>
       <li><strong>توضیحات:</strong> توضیحات اولیه در مورد پروژه و خواسته هایش، در فایل گزارش نهایی نوشته شد </li>
-      <li><a href="https://docs.google.com/document/d/16yNkjdHMuNY2Qr_G1Uqiz4pqbTHJamUH/edit?usp=sharing&ouid=101601006722367121274&rtpof=true&sd=true">لینک گوگل داکس</a></li>
+      <li><a href="https://docs.google.com/document/d/16yNkjdHMuNY2Qr_G1Uqiz4pqbTHJamUH/edit#heading=h.ia7pgfjaqrm9">لینک گوگل داکس</a></li>
     </ul>
   </li>
   <li><strong>#27:</strong> توضیح نحوه راه اندازی پروژه در GitHub و ساختار کار گروه در گزارش
     <ul>
       <li><strong>شخص مسئول:</strong> ارسطو حقیقی  </li>
       <li><strong>توضیحات:</strong>توضیحی جامع در مورد نحوه ساخت ریپازتوری و پروژه در GitHub و همچنین نحوه کار اعضای گروه در فایل گزارش نهایی نوشته شد.</li>
-      <li><a href="https://docs.google.com/document/d/16yNkjdHMuNY2Qr_G1Uqiz4pqbTHJamUH/edit?usp=sharing&ouid=101601006722367121274&rtpof=true&sd=true">لینک گوگل داکس</a></li>
+      <li><a href="https://docs.google.com/document/d/16yNkjdHMuNY2Qr_G1Uqiz4pqbTHJamUH/edit#heading=h.ooxxfau83h8u">لینک گوگل داکس</a></li>
     </ul>
   </li>
 </ul>
