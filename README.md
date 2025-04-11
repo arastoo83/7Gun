@@ -130,6 +130,7 @@
 پروتوتایپ‌های تعاملی این فاز را می‌توانید از طریق لینک زیر مشاهده کنید:
 
 🔗 [مشاهده پروتوتایپ‌ در فیگما](https://www.figma.com/proto/W1udGOCI5g6WOiMc4S9GMT/Social-Network---7gun?node-id=76-16&p=f&t=Fi0BvzwqdMgvuA3j-0&scaling=scale-down&content-scaling=fixed&page-id=0%3A1)
+
 🔗 [مشاهده پروژه در فیگما](https://www.figma.com/design/W1udGOCI5g6WOiMc4S9GMT/Social-Network---7gun?node-id=0-1&p=f&t=Fi0BvzwqdMgvuA3j-0)
 
 ---
