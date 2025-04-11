@@ -118,6 +118,7 @@
     </ul>
   </li>
 </ul>
+
 ---
 
 ## 3. مشکلات و چالش‌ها
@@ -133,6 +134,6 @@
 
 
 ## 5. لینک به کارهای انجام‌شده
-- [لینک به پروتوتایپ فیگما](https://www.figma.com/proto/W1udGOCI5g6WOiMc4S9GMT/Social-Network---7gun?node-id=0-1&t=E7rIO5CQ58Z0HCSS-1)
+- [لینک به پروتوتایپ فیگما](https://www.figma.com/proto/W1udGOCI5g6WOiMc4S9GMT/Social-Network---7gun?node-id=76-16&p=f&t=Fi0BvzwqdMgvuA3j-0&scaling=scale-down&content-scaling=fixed&page-id=0%3A1)
 
 </div>
