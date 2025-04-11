@@ -25,6 +25,13 @@
         <li><a href="https://docs.google.com/document/d/16yNkjdHMuNY2Qr_G1Uqiz4pqbTHJamUH/edit#heading=h.ymeqgotjk9kq">لینک به گزارش</a></li>
       </ul>
     </li>
+    <li><strong>#30:</strong> توضیح نحوه تقسیم بندی وظایف بین 3 sprint در گزارش
+      <ul>
+        <li><strong>شخص مسئول:</strong> ارسطو حقیقی </li>
+        <li><strong>توضیحات:</strong>نحوه تقسیم issue ها در بین sprint ها و اینکه در هر sprint چه کارهایی انجام شده است به گزارش اضافه شد</li>
+        <li><a href="https://docs.google.com/document/d/16yNkjdHMuNY2Qr_G1Uqiz4pqbTHJamUH/edit#heading=h.xynum7bzzwuj">لینک به گزارش</a></li>
+      </ul>
+    </li>
     <li><strong>#40:</strong> طراحی صفحه نشان دادن موضوعات یک انجمن
       <ul>
         <li><strong>شخص مسئول:</strong> مجتبی خالقی و امین محمدی </li>
