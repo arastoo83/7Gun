@@ -96,6 +96,13 @@
         <li><a href="README.md">لینک به گزارش</a></li>
       </ul>
 </li>
+ <li><strong>#12:</strong> طراحی صفحه پیام رسان
+    <ul>
+      <li><strong>شخص مسئول:</strong> نجمه کوهسار و  سارا رکنی دوست  </li>
+      <li><strong>توضیحات:</strong> صفحه پیام رسان مربوط به چت خصوصی و گروه ها و انجمن ها طراحی شد که میتوان پیام های تبادل شده را دید</li>
+      <li><a href="https://www.figma.com/proto/a5YCI4n0tDQ9PB6E29EBIf/Untitled?node-id=336-392&starting-point-node-id=336%3A392">لینک پروتوتایپ فیگما</a></li>
+    </ul>
+  </li>
 </ul>
 
 ---
