@@ -46,6 +46,14 @@
         <li><a href="https://docs.google.com/document/d/16yNkjdHMuNY2Qr_G1Uqiz4pqbTHJamUH/edit#heading=h.xynum7bzzwuj">لینک به گزارش</a></li>
       </ul>
     </li>
+    <li><strong>#31:</strong> ویرایش نهایی گزارش
+
+      <ul>
+        <li><strong>شخص مسئول:</strong> سعید جامعی </li>
+        <li><strong>توضیحات:</strong>برای داکیومنت فهرست زده شد و ویراش های نهایی انجام شد. </li>
+        <li><a href="https://docs.google.com/document/d/16yNkjdHMuNY2Qr_G1Uqiz4pqbTHJamUH/edit">لینک به گزارش</a></li>
+      </ul>
+    </li>
     <li><strong>#32:</strong> لینک کردن صفحات طراحی شده به یکدیگر و ایجاد ناوبری
       <ul>
         <li><strong>شخص مسئول:</strong> مجتبی خالقی و امین محمدی و نجمه کوهسار و سارا رکنی دوست </li>
