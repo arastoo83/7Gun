@@ -18,12 +18,21 @@
 در این بخش تمام **Issue‌های** انجام‌شده ذکر می‌شود. برای هر Issue، باید موارد زیر آورده شود:
 
 <ul dir="rtl">
+    <li><strong>#29:</strong>  توضیح ابزار پروتوتایپ انتخاب شده و دلیل انتخاب آن در گزارش
+    <ul>
+      <li><strong>شخص مسئول:</strong> ارسطو حقیقی </li>
+      <li><strong>توضیحات:</strong>علت استفاده تیم از figma به طور کامل در گزارش نوشته شد</li>
+      <li><a href="https://docs.google.com/document/d/16yNkjdHMuNY2Qr_G1Uqiz4pqbTHJamUH/edit#heading=h.ymeqgotjk9kq">لینک به گزارش</a></li>
+    </ul>
+    </li>
+
     <li><strong>#40:</strong>طراحی صفحه نشان دادن موضوعات یک انجمن
     <ul>
       <li><strong>شخص مسئول:</strong>  مجتبی خالقی و امین محمدی </li>
       <li><strong>توضیحات:</strong>طراحی صفحه نشان دادن موضوعات یک انجمن برای کاربران. این صفحه شامل موضوعات یک انجمن و توانایی اضافه کردن یا حذف کردن یک موضوع . به اتمام رسید.</li>
       <li><a href="https://www.figma.com/file/xyzhttps://www.figma.com/proto/W1udGOCI5g6WOiMc4S9GMT/Social-Network---7gun?node-id=287-825&t=JrwQlK7Otb9NnlUr-1https://www.figma.com/proto/W1udGOCI5g6WOiMc4S9GMT/Social-Network---7gun?node-id=268-739&t=JFsTDdYKXhNEpA7L-1">لینک پروتوتایپ فیگما</a></li>
     </ul>
+    </li>
 
   <li><strong>#41:</strong>اضافه کردن سربرگ رویداد به سر برگ کلی
     <ul>
