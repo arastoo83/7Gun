@@ -92,7 +92,7 @@
     <ul>
       <li><strong>شخص مسئول:</strong> سارا رکنی دوست </li>
       <li><strong>توضیحات:</strong> طراحی صفحه فید با قابلیت دیدن آخرین پست های کاربران دنبال شده (متن،عکس،ویدیو،نظرسنجی) به اتمام رسید.</li>
-      <li><a href="https://www.figma.com/proto/Hvr8IypCQj5Ej5UmDpiTOX/Untitled?page-id=370%3A210&node-id=374-114&viewport=522%2C67%2C1&t=1tA3OHoWCG8sya4K-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=374%3A114">لینک پروتوتایپ فیگما</a></li>
+      <li><a href="https://www.figma.com/proto/W1udGOCI5g6WOiMc4S9GMT/Social-Network---7gun?node-id=286-1682&t=CtVyL0JKSfunsmsE-1">لینک پروتوتایپ فیگما</a></li>
     </ul>
   </li>
 
