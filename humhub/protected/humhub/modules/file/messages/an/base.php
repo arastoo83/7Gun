@@ -1,0 +1,25 @@
+<?php
+
+return [
+    '<strong>Upload</strong> error' => '<strong>Error</strong> de puyada',
+    'Close' => 'Zarrar',
+    'Could not upload File:' => 'No s\'ha puesto zarrar o fichero:',
+    'Upload files' => 'Puyar fichers',
+    '<strong>Open</strong> file' => '',
+    'Attach a video' => '',
+    'Attach an audio message' => '',
+    'Attach an image' => '',
+    'Could not find requested file variant!' => '',
+    'Could not find requested file!' => '',
+    'Created by:' => '',
+    'Double file extensions are not allowed!' => '',
+    'Download' => '',
+    'File {fileName} could not be uploaded!' => '',
+    'Insufficient permissions!' => '',
+    'Invalid Mime-Type' => '',
+    'Last update by:' => '',
+    'Size:' => '',
+    'Sorry, you can only upload up to {n,plural,=1{# file} other{# files}} at once.' => '',
+    'The uploaded image is not a squared.' => '',
+    'This upload field only allows a maximum of {n,plural,=1{# file} other{# files}}.' => '',
+];
