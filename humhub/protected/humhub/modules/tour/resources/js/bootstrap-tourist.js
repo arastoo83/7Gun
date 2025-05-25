@@ -2251,7 +2251,7 @@
                 param
             params,
                 paramsObject;
-            params = path.split(start);
+           let params = path.split(start);
             if (params.length === 1) {
                 return {};
             }
