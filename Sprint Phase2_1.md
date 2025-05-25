@@ -25,8 +25,40 @@
         <li><a href="https://docs.google.com/document/d/16yNkjdHMuNY2Qr_G1Uqiz4pqbTHJamUH/edit#heading=h.ymeqgotjk9kq">لینک به گزارش</a></li>
       </ul>
     </li>
-   
-
+    <li><strong>#49:</strong> نصب و راه اندازی OSSNبروی سیستم
+      <ul>
+        <li><strong>شخص مسئول:</strong> مجتبی خالقی و محمد امین محمدی نژاد </li>
+        <li><strong>توضیحات:</strong>شبکه مورد نظر بروی سیستم نصب و راه اندازی شد برای کار های بعدی در گام اول</li>
+      </ul>
+    </li>   
+    <li><strong>#52:</strong>  نوشتن گزارش شبکهOSSN
+      <ul>
+        <li><strong>شخص مسئول:</strong> مجتبی خالقی و محمد امین محمدی نژاد </li>
+        <li><strong>توضیحات:</strong>بعد از نصب شبکه و کار کردن با این شبکه نوبت نوشتن ضعف های این شبکه هست که در گزارش زیر قابل مشاهده هست.</li>
+        <li><a href="https://docs.google.com/document/d/1Lh_QlUkQp9fxmCm0t5eNy_XFsBVeq9HSWR6brVR2Fa0/edit?usp=sharing">لینک به گزارش</a></li>
+      </ul>
+    </li>
+      <li><strong>#56:</strong>  اصلاح ضعف امنیتی (1) CSP
+      <ul>
+        <li><strong>شخص مسئول:</strong> مجتبی خالقی </li>
+        <li><strong>توضیحات:</strong>اصلاح ضعف امنیتی(1)CSP به انجام شد و کد جدید pushشد داخل گیت هاب</li>
+        <li><a href="https://docs.google.com/document/d/1bH_1d7q0jLb8-1bDAwN_ZF7heMJ7vRzvMG-HgNOtYKU/edit?usp=sharing">لینک به گزارش</a></li>
+      </ul>
+    </li>
+      <li><strong>#61:</strong>  اصلاح ضعف امنیتی(2) Directory Listing
+      <ul>
+        <li><strong>شخص مسئول:</strong> مجتبی خالقی</li>
+        <li><strong>توضیحات:</strong>اصلاح ضعف امنیتی(2)Directory Listing به انجام شد و کد جدید pushشد داخل گیت هاب</li>
+        <li><a href="https://docs.google.com/document/d/1bH_1d7q0jLb8-1bDAwN_ZF7heMJ7vRzvMG-HgNOtYKU/edit?usp=sharing">لینک به گزارش</a></li>
+      </ul>
+    </li>
+      <li><strong>#62:</strong>  اصلاح ضعف امنیتی(3) فعال‌سازیX-XSS-Protection
+      <ul>
+        <li><strong>شخص مسئول:</strong> مجتبی خالقی </li>
+        <li><strong>توضیحات:</strong>اصلاح ضعف امنیتی(3)X-XSS-Protection به انجام شد و کد جدید pushشد داخل گیت هاب</li>
+        <li><a href="https://docs.google.com/document/d/1bH_1d7q0jLb8-1bDAwN_ZF7heMJ7vRzvMG-HgNOtYKU/edit?usp=sharing">لینک به گزارش</a></li>
+      </ul>
+    </li>
 </ul>
 
 ---
