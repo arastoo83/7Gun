@@ -2126,8 +2126,8 @@
                 $("#tourPrevent").offset($(step.element).offset());
             }
 
-            docHeight = $(document).height();
-            docWidth = $(document).width();
+            let docHeight = $(document).height();
+            let docWidth = $(document).width();
 
             if ($(step.element).length === 0 || this._isOrphan(step)) {
                 var $backdrop = $('<div class="tour-backdrop tour-backdrop-orphan"></div>');
