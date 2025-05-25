@@ -2256,7 +2256,7 @@
                 return {};
             }
             params = params[1].split('&');
-            paramsObject = {};
+           let paramsObject = {};
             for (j = 0, len = params.length; j < len; j++) {
                 param = params[j];
                 param = param.split('=');
