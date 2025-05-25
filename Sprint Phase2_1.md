@@ -74,6 +74,13 @@
         <li><a href="https://docs.google.com/document/d/1bH_1d7q0jLb8-1bDAwN_ZF7heMJ7vRzvMG-HgNOtYKU/edit?usp=sharing">لینک به گزارش</a></li>
       </ul>
     </li>
+        <li><strong>#57:</strong>   اطمینان از ازادسازی متغییر unset پس از اتمامforeach
+  <ul>
+    <li><strong>شخص مسئول:</strong>امیرحسین جامعی،امین محمدی نژآد،نجمه کوهسار</li>
+    <li><strong>توضیحات:</strong>مشکل موجود در فایل StdClass.PHP وجود داشت که با استفاده از نوشتن unset($signature) در ادامه حلقه foreach حل شد</li>
+    <li><a href="https://github.com/arastoo83/7Gun/blob/main/humhub/protected/humhub/libs/StdClass.php">لینک </a></li>
+  </ul>
+</li>
      <li><strong>#58:</strong>  اضافه کردن کلمات کلیدی برای تعریف متغیر
   <ul>
     <li><strong>شخص مسئول:</strong>امیرحسین جامعی،امین محمدی نژاد،نجمه کوهسار</li>
