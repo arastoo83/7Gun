@@ -1488,7 +1488,7 @@
 
             // only call the onNext handler if this is a click and NOT an orphan skip due to missing element
             if (skipOrphan === false && step.onNext != null) {
-                rslt = step.onNext(this);
+                let rslt = step.onNext(this);
 
                 if (rslt === false) {
                     this._debug("onNext callback returned false, preventing move to next step");
