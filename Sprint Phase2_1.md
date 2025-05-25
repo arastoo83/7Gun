@@ -115,6 +115,13 @@
         <li><a href="https://docs.google.com/document/d/1bH_1d7q0jLb8-1bDAwN_ZF7heMJ7vRzvMG-HgNOtYKU/edit?usp=sharing">لینک به گزارش</a></li>
       </ul>
     </li>
+        <li><strong>#63:</strong> استفاده از متغیرهای متغیر (variable variables) در PHP 
+  <ul>
+    <li><strong>شخص مسئول:</strong>امیرحسین جامعی،امین محمدی نژآد،نجمه کوهسار</li>
+    <li><strong>توضیحات:</strong>مشکل موجود در فایل حل شد .</li>
+    <li><a href="https://github.com/arastoo83/7Gun/blob/main/humhub/protected/humhub/modules/ldap/components/ZendLdap.php">لینک </a></li>
+  </ul>
+</li>
         <li><strong>#64:</strong>  نوشتن گزارش برنامه ZAP
       <ul>
         <li><strong>شخص مسئول:</strong> مجتبی خالقی </li>
