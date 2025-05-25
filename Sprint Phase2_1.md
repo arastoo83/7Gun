@@ -80,6 +80,13 @@
         <li><strong>توضیحات:</strong>کد سورس humhub بر روی ریپازتوری قرار گرفت تا تمام اعضای گروه بتوانند کد هاشون رو push کنند.</li>
       </ul>
     </li>
+    <li><strong>#60:</strong>نوشتن گزارش مربوط به اسکن Acunetix
+      <ul>
+        <li><strong>شخص مسئول:</strong>ارسطو حقیقی </li>
+        <li><strong>توضیحات:</strong>گزارش مربوط به Acunetix نوشته شد. این گزارش شامل مراحل اسکن و توضیح علل مشکلات پیدا شده است.</li>
+        <li><a href="https://docs.google.com/document/d/1Lty6uvCQDI_c29ETN8B8Fc24jH02nPMwxSjqaZF0zBs/edit?usp=sharing">لینک به گزارش</a></li>
+      </ul>
+    </li>
       <li><strong>#61:</strong>  اصلاح ضعف امنیتی(2) Directory Listing
       <ul>
         <li><strong>شخص مسئول:</strong> مجتبی خالقی</li>
