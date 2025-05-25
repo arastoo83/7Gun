@@ -25,6 +25,13 @@
         <li><a href="https://docs.google.com/document/d/16yNkjdHMuNY2Qr_G1Uqiz4pqbTHJamUH/edit#heading=h.ymeqgotjk9kq">لینک به گزارش</a></li>
       </ul>
     </li>
+  <li><strong>#48:</strong> نصب و راه اندازی HubHub بر روی سیستم
+      <ul>
+        <li><strong>شخص مسئول:</strong> ارسطو حقیقی و امین محمدی </li>
+        <li><strong>توضیحات:</strong>شبمه humhub را بر روی localhost با استفاده از xampp بالا آوردیم</li>
+        <li><a href="https://docs.google.com/document/d/1xRuuLZ43L70GVHqMWgnBheStKZDAig198H88E11R7l4/edit?tab=t.0#heading=h.qujaotwok94x">لینک به گزارش</a></li>
+      </ul>
+    </li>
     <li><strong>#49:</strong> نصب و راه اندازی OSSNبروی سیستم
       <ul>
         <li><strong>شخص مسئول:</strong> مجتبی خالقی و محمد امین محمدی نژاد </li>
