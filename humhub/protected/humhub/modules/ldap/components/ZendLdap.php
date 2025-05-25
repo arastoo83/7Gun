@@ -46,46 +46,52 @@ class ZendLdap extends Ldap
         $timelimit = 0,
         $pageSize = 10000,
     ) {
+        $resolvedFilter = $filter;
+        $resolvedBaseDn = $basedn;
+        $resolvedAttributes = $attributes;
+        $resolvedTimelimit = $timelimit;
+
         if (is_array($filter)) {
             $options = array_change_key_case($filter, CASE_LOWER);
             foreach ($options as $key => $value) {
                 switch ($key) {
                     case 'filter':
+                        $resolvedFilter = $value;
+                        break;
                     case 'basedn':
-                    case 'scope':
-                    case 'sort':
-                        $$key = $value;
+                        $resolvedBaseDn = $value;
                         break;
                     case 'attributes':
                         if (is_array($value)) {
-                            $attributes = $value;
+                            $resolvedAttributes = $value;
                         }
                         break;
-                    case 'collectionclass':
-                        $collectionClass = $value;
-                        break;
-                    case 'sizelimit':
                     case 'timelimit':
-                        $$key = (int)$value;
+                        $resolvedTimelimit = (int)$value;
                         break;
                 }
             }
         }
-        if ($basedn === null) {
-            $basedn = $this->getBaseDn();
-        } elseif ($basedn instanceof Dn) {
-            $basedn = $basedn->toString();
+
+        if ($resolvedBaseDn === null) {
+            $resolvedBaseDn = $this->getBaseDn();
+        } elseif ($resolvedBaseDn instanceof Dn) {
+            $resolvedBaseDn = $resolvedBaseDn->toString();
         }
-        if ($filter instanceof Filter\AbstractFilter) {
-            $filter = $filter->toString();
+
+        if ($resolvedFilter instanceof Filter\AbstractFilter) {
+            $resolvedFilter = $resolvedFilter->toString();
         }
+
         $resource = $this->getResource();
         ErrorHandler::start(E_WARNING);
-        $results = $this->ldapSearchPaged($resource, $basedn, $filter, $attributes, 0, $pageSize, $timelimit);
+        $results = $this->ldapSearchPaged($resource, $resolvedBaseDn, $resolvedFilter, $resolvedAttributes, 0, $pageSize, $resolvedTimelimit);
         ErrorHandler::stop();
+
         if (count($results) == 0) {
-            throw new Exception\LdapException($this, 'searching: ' . $filter);
+            throw new Exception\LdapException($this, 'searching: ' . $resolvedFilter);
         }
+
         return $results;
     }
 

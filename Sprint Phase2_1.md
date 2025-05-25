@@ -30,12 +30,27 @@
         <li><strong>شخص مسئول:</strong> مجتبی خالقی و محمد امین محمدی نژاد </li>
         <li><strong>توضیحات:</strong>شبکه مورد نظر بروی سیستم نصب و راه اندازی شد برای کار های بعدی در گام اول</li>
       </ul>
-    </li>   
+    </li>
+  <li><strong>#51:</strong>نوشتن گزارش HumHub
+      <ul>
+        <li><strong>شخص مسئول:</strong>ارسطو حقیقی و امین محمدی </li>
+        <li><strong>توضیحات:</strong>گزارش مربوط به HumHub تکمیل شد</li>
+        <li><a href="https://docs.google.com/document/d/1xRuuLZ43L70GVHqMWgnBheStKZDAig198H88E11R7l4/edit?usp=sharing">لینک به گزارش</a></li>
+      </ul>
+    </li>
     <li><strong>#52:</strong>  نوشتن گزارش شبکهOSSN
       <ul>
         <li><strong>شخص مسئول:</strong> مجتبی خالقی و محمد امین محمدی نژاد </li>
         <li><strong>توضیحات:</strong>بعد از نصب شبکه و کار کردن با این شبکه نوبت نوشتن ضعف های این شبکه هست که در گزارش زیر قابل مشاهده هست.</li>
         <li><a href="https://docs.google.com/document/d/1Lh_QlUkQp9fxmCm0t5eNy_XFsBVeq9HSWR6brVR2Fa0/edit?usp=sharing">لینک به گزارش</a></li>
+      </ul>
+    </li>
+
+<li><strong>#53:</strong> نوشتن گزارش ELGG
+      <ul>
+        <li><strong>شخص مسئول:</strong> نجمه کوهسار ، امیرحسین جامعی و سارا رکنی دوست </li>
+        <li><strong>توضیحات:</strong> نوشتن گزارش مربوط به Elgg به اتمام رسید.</li>
+        <li><a href="https://docs.google.com/document/d/14731TbVqnnDwIkQHrnX_vHs31KDP6xGO9H3k1H3iTTw/edit?usp=sharing">لینک به گزارش</a></li>
       </ul>
     </li>
       <li><strong>#56:</strong>  اصلاح ضعف امنیتی (1) CSP
@@ -45,6 +60,13 @@
         <li><a href="https://docs.google.com/document/d/1bH_1d7q0jLb8-1bDAwN_ZF7heMJ7vRzvMG-HgNOtYKU/edit?usp=sharing">لینک به گزارش</a></li>
       </ul>
     </li>
+     <li><strong>#58:</strong>  اضافه کردن کلمات کلیدی برای تعریف متغیر
+  <ul>
+    <li><strong>شخص مسئول:</strong>امیرحسین جامعی،امین محمدی نژاد،نجمه کوهسار</li>
+    <li><strong>توضیحات:</strong>.به کد برای تعریف متغیر ها حل شد let و const مشکلات کد با اضافه کردن  </li>
+    <li><a href="https://github.com/arastoo83/7Gun/blob/main/humhub/protected/humhub/modules/tour/resources/js/bootstrap-tourist.js">لینک فایل</a></li>
+  </ul>
+</li>
       <li><strong>#61:</strong>  اصلاح ضعف امنیتی(2) Directory Listing
       <ul>
         <li><strong>شخص مسئول:</strong> مجتبی خالقی</li>
@@ -56,6 +78,13 @@
       <ul>
         <li><strong>شخص مسئول:</strong> مجتبی خالقی </li>
         <li><strong>توضیحات:</strong>اصلاح ضعف امنیتی(3)X-XSS-Protection به انجام شد و کد جدید pushشد داخل گیت هاب</li>
+        <li><a href="https://docs.google.com/document/d/1bH_1d7q0jLb8-1bDAwN_ZF7heMJ7vRzvMG-HgNOtYKU/edit?usp=sharing">لینک به گزارش</a></li>
+      </ul>
+    </li>
+        <li><strong>#64:</strong>  نوشتن گزارش برنامه ZAP
+      <ul>
+        <li><strong>شخص مسئول:</strong> مجتبی خالقی </li>
+        <li><strong>توضیحات:</strong>بعد از اجرای برنامه و انجام تست های امنیت گزارشی از آن ها تهیه شده که در لینک زیر قابل مشاهده هست.</li>
         <li><a href="https://docs.google.com/document/d/1bH_1d7q0jLb8-1bDAwN_ZF7heMJ7vRzvMG-HgNOtYKU/edit?usp=sharing">لینک به گزارش</a></li>
       </ul>
     </li>
