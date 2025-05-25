@@ -67,6 +67,12 @@
     <li><a href="https://github.com/arastoo83/7Gun/blob/main/humhub/protected/humhub/modules/tour/resources/js/bootstrap-tourist.js">لینک فایل</a></li>
   </ul>
 </li>
+<li><strong>#59:</strong> push کردن کد humhub بر روی ریپازتوری
+      <ul>
+        <li><strong>شخص مسئول:</strong> ارسطو حقیقی </li>
+        <li><strong>توضیحات:</strong>کد سورس humhub بر روی ریپازتوری قرار گرفت تا تمام اعضای گروه بتوانند کد هاشون رو push کنند.</li>
+      </ul>
+    </li>
       <li><strong>#61:</strong>  اصلاح ضعف امنیتی(2) Directory Listing
       <ul>
         <li><strong>شخص مسئول:</strong> مجتبی خالقی</li>
