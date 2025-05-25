@@ -45,6 +45,14 @@
         <li><a href="https://docs.google.com/document/d/1Lh_QlUkQp9fxmCm0t5eNy_XFsBVeq9HSWR6brVR2Fa0/edit?usp=sharing">لینک به گزارش</a></li>
       </ul>
     </li>
+
+<li><strong>#53:</strong> نوشتن گزارش ELGG
+      <ul>
+        <li><strong>شخص مسئول:</strong> نجمه کوهسار ، امیرحسین جامعی و سارا رکنی دوست </li>
+        <li><strong>توضیحات:</strong> نوشتن گزارش مربوط به Elgg به اتمام رسید.</li>
+        <li><a href="[https://docs.google.com/document/d/16yNkjdHMuNY2Qr_G1Uqiz4pqbTHJamUH/edit#heading=h.ymeqgotjk9kq](https://docs.google.com/document/d/14731TbVqnnDwIkQHrnX_vHs31KDP6xGO9H3k1H3iTTw/edit?usp=sharing)">لینک به گزارش</a></li>
+      </ul>
+    </li>
       <li><strong>#56:</strong>  اصلاح ضعف امنیتی (1) CSP
       <ul>
         <li><strong>شخص مسئول:</strong> مجتبی خالقی </li>
