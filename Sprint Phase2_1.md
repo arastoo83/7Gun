@@ -59,6 +59,13 @@
         <li><a href="https://docs.google.com/document/d/1bH_1d7q0jLb8-1bDAwN_ZF7heMJ7vRzvMG-HgNOtYKU/edit?usp=sharing">لینک به گزارش</a></li>
       </ul>
     </li>
+        <li><strong>#64:</strong>  نوشتن گزارش برنامه ZAP
+      <ul>
+        <li><strong>شخص مسئول:</strong> مجتبی خالقی </li>
+        <li><strong>توضیحات:</strong>بعد از اجرای برنامه و انجام تست های امنیت گزارشی از آن ها تهیه شده که در لینک زیر قابل مشاهده هست.</li>
+        <li><a href="https://docs.google.com/document/d/1bH_1d7q0jLb8-1bDAwN_ZF7heMJ7vRzvMG-HgNOtYKU/edit?usp=sharing">لینک به گزارش</a></li>
+      </ul>
+    </li>
 </ul>
 
 ---
