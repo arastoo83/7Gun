@@ -45,7 +45,7 @@ humhub.module('content.container.Header', function (module, require, $) {
         });
     };
 
-    ProfileImage = function ($root) {
+    const ProfileImage = function ($root) {  
         this.$ = $root;
     };
 
