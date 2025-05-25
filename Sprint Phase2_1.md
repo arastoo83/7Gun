@@ -38,6 +38,13 @@
         <li><strong>توضیحات:</strong>شبکه مورد نظر بروی سیستم نصب و راه اندازی شد برای کار های بعدی در گام اول</li>
       </ul>
     </li>
+   <li><strong>#50:</strong>نصب و راه اندازی Elgg
+  <ul>
+    <li><strong>شخص مسئول:</strong>امیرحسین جامعی،سارا رکنی دوست،نجمه کوهسار</li>
+    <li><strong>توضیحات:</strong>شبکه elgg نصب و راه اندازی شد.</li>
+    <li><a href="https://github.com/users/arastoo83/projects/1/views/1?pane=issue&itemId=110250604&issue=arastoo83%7C7Gun%7C50">لینک </a></li>
+  </ul>
+</li>
   <li><strong>#51:</strong>نوشتن گزارش HumHub
       <ul>
         <li><strong>شخص مسئول:</strong>ارسطو حقیقی و امین محمدی </li>
