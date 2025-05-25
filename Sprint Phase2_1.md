@@ -134,7 +134,6 @@
 ---
 
 ## 4. لینک به کارهای انجام‌شده
-- [لینک به پروتوتایپ فیگما](https://www.figma.com/design/W1udGOCI5g6WOiMc4S9GMT/Social-Network---7gun?node-id=0-1&p=f&t=8CMGot1cSL8SzlAj-0)
-- [لینک گزارش نهایی](https://docs.google.com/document/d/16yNkjdHMuNY2Qr_G1Uqiz4pqbTHJamUH/edit)
+- [لینک گزارش نهایی](https://docs.google.com/document/d/10TjnQMmwCA2bdKtfY8xEdhyq9MjMIsUeeLXmXGQnXJY/edit?tab=t.0)
 
 </div>
