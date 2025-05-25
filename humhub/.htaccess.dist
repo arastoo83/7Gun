@@ -75,3 +75,8 @@ Header set Content-Security-Policy "default-src 'self'; script-src 'self'; style
 
 #fix Directory Browsing
 Options -Indexes
+
+#fix X-XSS-Protection
+<IfModule mod_headers.c>
+Header set X-XSS-Protection "1; mode=block"
+</IfModule>
