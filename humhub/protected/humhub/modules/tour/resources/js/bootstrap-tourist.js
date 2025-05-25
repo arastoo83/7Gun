@@ -1215,7 +1215,7 @@
             }
 
             // will be set to element <div class="modal"> if modal in use
-            $modalObject = null;
+           let $modalObject = null;
 
             // is element a modal?
             if (step.orphan === false && ($(step.element).hasClass("modal") || $(step.element).data('bs.modal'))) {
