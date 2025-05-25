@@ -1519,7 +1519,7 @@
 
             // only call the onPrev handler if this is a click and NOT an orphan skip due to missing element
             if (skipOrphan === false && step.onPrev != null) {
-                rslt = step.onPrev(this);
+             let rslt = step.onPrev(this);
 
                 if (rslt === false) {
                     this._debug("onPrev callback returned false, preventing move to previous step");
