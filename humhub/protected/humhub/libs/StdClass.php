@@ -270,6 +270,7 @@ class StdClass extends \stdClass implements ArrayAccess, Stringable, SeekableIte
                 break;
             }
         }
+        unset($signature);
 
         // replace the definition of the top-level object to be a \stdClass, so we can internally unserialize it and
         // retrieve the values needed to set up this instance
