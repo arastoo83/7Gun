@@ -30,7 +30,14 @@
         <li><strong>شخص مسئول:</strong> مجتبی خالقی و محمد امین محمدی نژاد </li>
         <li><strong>توضیحات:</strong>شبکه مورد نظر بروی سیستم نصب و راه اندازی شد برای کار های بعدی در گام اول</li>
       </ul>
-    </li>   
+    </li>
+  <li><strong>#51:</strong>نوشتن گزارش HumHub
+      <ul>
+        <li><strong>شخص مسئول:</strong>ارسطو حقیقی و امین محمدی </li>
+        <li><strong>توضیحات:</strong>گزارش مربوط به HumHub تکمیل شد</li>
+        <li><a href="https://docs.google.com/document/d/1xRuuLZ43L70GVHqMWgnBheStKZDAig198H88E11R7l4/edit?usp=sharing">لینک به گزارش</a></li>
+      </ul>
+    </li>
     <li><strong>#52:</strong>  نوشتن گزارش شبکهOSSN
       <ul>
         <li><strong>شخص مسئول:</strong> مجتبی خالقی و محمد امین محمدی نژاد </li>
