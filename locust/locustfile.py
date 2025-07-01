@@ -5,7 +5,7 @@ import logging
 
 class QuickstartUser(HttpUser):
     # Random wait time between tasks to simulate realistic user behavior
-    wait_time = between(1, 5)
+    wait_time = between(1 , 5)
 
     @task(1)
     def add_a_artist(self):
