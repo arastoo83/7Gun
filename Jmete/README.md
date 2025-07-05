@@ -26,11 +26,11 @@ JMeter یک ابزار رایگان و متن‌باز است که برای تس
 
 ### مراحل نصب:
 
-![Image 1](md_images\image_001.png)
+![Image 1](md_images/image_001.png)
 
 به سایت رسمی JMeter بروید و آخرین نسخه را دانلود کنید:
 
-![Image 2](md_images\image_002.png)
+![Image 2](md_images/image_002.png)
 
 فایل ZIP دانلود شده را در یک پوشه دلخواه استخراج (Extract) کنید.
 
