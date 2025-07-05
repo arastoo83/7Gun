@@ -48,11 +48,11 @@ JMeter یک ابزار رایگان و متن‌باز است که برای تس
 
 ### نصب Plugin Manager:
 
-![Image 3](md_images\image_003.png)
+![Image 3](md_images/image_003.png)
 
 به این صفحه بروید و فایل Plugin Manager را دانلود کنید:
 
-![Image 4](md_images\image_004.png)
+![Image 4](md_images/image_004.png)
 
 فایل JMeterPlugins-Manager-x.x.jar را داخل پوشه lib/ext که در مسیر نصب JMeter قرار دارد کپی کنید.
 
@@ -64,7 +64,7 @@ JMeter را باز کنید، از منوی بالا به مسیر Options > Plu
 
 بعد از نصب، ممکن است لازم باشد JMeter را ری‌استارت کنید تا پلاگین‌ها فعال شوند.
 
-![Image 5](md_images\image_005.png)
+![Image 5](md_images/image_005.png)
 
 ## پلاگین‌های پیشنهادی و کاربرد آن‌ها
 
@@ -291,7 +291,7 @@ LoginLogin[username]=mojtab
 
 Login[rememberMe]=1
 
-![Image 6](md_images\image_006.png)
+![Image 6](md_images/image_006.png)
 
 ### 2️⃣ ایجاد نظرسنجی در فضای Artist
 
@@ -309,7 +309,7 @@ Login[rememberMe]=1
 
 #### POST /s/artist/polls/poll/create
 
-![Image 7](md_images\image_007.png)
+![Image 7](md_images/image_007.png)
 
 ایجاد نظرسنجی
 
@@ -323,7 +323,7 @@ Login[rememberMe]=1
 گزینه‌ها:
  Bugatti, Lamborghini, Samand Soren, Pride, Peugeot405
 
-![Image 8](md_images\image_008.png)
+![Image 8](md_images/image_008.png)
 
 ### 4️⃣ پست شخصی
 
@@ -335,7 +335,7 @@ Login[rememberMe]=1
 
 ارسال پست روی صفحه خود کاربر
 
-![Image 9](md_images\image_009.png)
+![Image 9](md_images/image_009.png)
 
 ### 5️⃣ ارسال پیام
 
@@ -343,7 +343,7 @@ Login[rememberMe]=1
 
 مشاهده لیست مکالمات
 
-![Image 10](md_images\image_010.png)
+![Image 10](md_images/image_010.png)
 
 استخراج CSRF
 
@@ -357,7 +357,7 @@ Login[rememberMe]=1
 
 ارسال پیام
 
-![Image 11](md_images\image_011.png)
+![Image 11](md_images/image_011.png)
 
 ### 6️⃣ ارسال کامنت و لایک
 
@@ -397,13 +397,13 @@ message=This is a test comment from Jmeter.
 
 #### GET /people?keyword=David Roberts
 
-![Image 12](md_images\image_012.png)
+![Image 12](md_images/image_012.png)
 
 جستجوی کاربر
 
 #### GET /u/david1986
 
-![Image 13](md_images\image_013.png)
+![Image 13](md_images/image_013.png)
 
 مشاهده پروفایل David
 
@@ -413,11 +413,11 @@ message=This is a test comment from Jmeter.
 
 مشاهده صفحه کلی
 
-![Image 14](md_images\image_014.png)
+![Image 14](md_images/image_014.png)
 
 #### GET /content/perma?id=2
 
-![Image 15](md_images\image_015.png)
+![Image 15](md_images/image_015.png)
 
 مشاهده پست مشخص
 
@@ -425,25 +425,25 @@ message=This is a test comment from Jmeter.
 
 #### GET /dashboard
 
-![Image 16](md_images\image_016.png)
+![Image 16](md_images/image_016.png)
 
 بررسی عملکرد کلی صفحه
 
 بررس درستی عملکرد
 
-![Image 17](md_images\image_017.png)
+![Image 17](md_images/image_017.png)
 
 ### 🔟 خروج از سیستم
 
 #### GET /dashboard
 
-![Image 18](md_images\image_018.png)
+![Image 18](md_images/image_018.png)
 
 استخراج CSRF
 
 #### POST /user/auth/logout
 
-![Image 19](md_images\image_019.png)
+![Image 19](md_images/image_019.png)
 
 ارسال درخواست خروج
 
@@ -615,19 +615,19 @@ Constant Delay Offset (ms): 100
 
 Delay = 100ms + random(0–400ms) → 100ms to 500ms
 
-![Image 20](md_images\image_020.png)
+![Image 20](md_images/image_020.png)
 
 نتایج آزمون بار
 
-![Image 21](md_images\image_021.png)
+![Image 21](md_images/image_021.png)
 
-![Image 22](md_images\image_022.png)
+![Image 22](md_images/image_022.png)
 
 نتایج آزمون فشار
 
 # 
 
-![Image 23](md_images\image_023.png)
+![Image 23](md_images/image_023.png)
 
 بررسی نتایج آزمون
 
@@ -667,7 +667,7 @@ Delay = 100ms + random(0–400ms) → 100ms to 500ms
 
 آزمون فشار با هدف تعیین آستانهٔ ظرفیت سیستم انجام گرفت. در این سناریو، بار ابتدا در سطح قابل تحمل شروع شده و سپس تا حد فروپاشی سیستم افزایش یافت. تیم تست با استفاده از Locust تعداد کاربران را به تدریج به ۱۰۰۰ افزایش داد تا رفتار سیستم در نزدیکی نقطه اشباع مشاهده شود. در سمت JMeter نیز سناریویی متناظر قابل پیاده‌سازی بود (مثلاً افزایش کاربران در چند مرحله‌ی پیاپی)، اگرچه در عمل عمده اطلاعات آزمون فشار از نتایج Locust به‌دست آمد. نتایج نشان داد که سیستم تحت آزمون پس از حدود ۳۰۰–۴۰۰ کاربر وارد ناحیه اشباع می‌شود و فراتر از آن، زمان‌های پاسخ به شدت افزایش یافته و نرخ خطا زیاد می‌گردد. شکل زیر منحنی تغییرات زمان پاسخ نسبت به تعداد کاربر در آزمون فشار Locust را نمایش می‌دهد:
 
-![Image 24](md_images\image_024.png)
+![Image 24](md_images/image_024.png)
 
 نمودار ۱ -
 
