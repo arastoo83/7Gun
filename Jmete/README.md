@@ -51,6 +51,7 @@ JMeter یک ابزار رایگان و متن‌باز است که برای تس
 ![Image 3](md_images/image_003.png)
 
 به این صفحه بروید و فایل Plugin Manager را دانلود کنید:
+https://jmeter.apache.org/download_jmeter.cgi
 
 ![Image 4](md_images/image_004.png)
 
